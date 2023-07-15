@@ -1,0 +1,11 @@
+{
+  "name": "EtherUnits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:naftalimurgor/EtherUnits.git",
+  "author": "naftalimurgor <murgornaftali@gmailc.om>",
+  "license": "MIT",
+  "dependencies": {
+    "ganache": "^7.9.0"
+  }
+}
